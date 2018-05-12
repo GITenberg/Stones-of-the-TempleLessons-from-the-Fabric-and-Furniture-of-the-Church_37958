@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39146'
     url: http://www.gutenberg.org/2009/agents/39146
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37958#Stones-of-the-TempleLessons-from-the-Fabric-and-Furniture-of-the-Church
 gutenberg_issued: '2011-11-09'
 gutenberg_type: Text
 identifiers:
