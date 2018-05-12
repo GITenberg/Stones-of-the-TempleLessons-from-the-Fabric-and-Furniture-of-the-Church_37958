@@ -1,0 +1,28 @@
+_repo: Stones-of-the-TempleLessons-from-the-Fabric-and-Furniture-of-the-Church_37958
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Field, Walter
+    birthdate: 1824
+    deathdate: 1876
+    gutenberg_agent_id: '39146'
+    url: http://www.gutenberg.org/2009/agents/39146
+description: ''
+gutenberg_issued: '2011-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37958'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian art and symbolism'
+- !lcsh 'Church architecture'
+- !lcc 'BV'
+- !lcsh 'Symbolism in architecture'
+title: Stones of the Temple; Or, Lessons from the Fabric and Furniture of the Church
+url: http://www.gutenberg.org/ebooks/37958
